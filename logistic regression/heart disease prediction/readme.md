@@ -7,4 +7,8 @@ The methods implemented are listed as follows:
 ```
 1. Linear Regression
 2. K Nearest Neighbors
-
+```
+# ToDO - List
+- [ ] Support Vector Classifier
+- [ ] Decision Tree Classifier
+- [ ] Random Forest Classifier

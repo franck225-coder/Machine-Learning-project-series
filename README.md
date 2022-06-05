@@ -1,8 +1,8 @@
-# Machine Learning project series
+# __**Machine Learning (ML) project series**__
 
-					# MACHINE LEARNING SERIES # 
+					    # MACHINE LEARNING (ML) SERIES # 
 
-## supervised learning => Classification & Regression
+## Supervised learning => Classification & Regression
 	- Algorithms
 		- Decision tree
 		- Random forest 
@@ -10,8 +10,8 @@
 		- Logistic regression
 		- Support Vector Machines
 
-## unsupervised learning => Clustering & Association & Dimensionality Reduction.
-	- Algorithm
+## Unsupervised learning => Clustering & Association & Dimensionality Reduction.
+	- Algorithms
 		- K-means clustering
 		- K Nearest Neighbours
 

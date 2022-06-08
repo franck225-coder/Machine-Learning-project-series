@@ -11,4 +11,4 @@ The methods implemented are listed as follows:
 # TODO - List
 - [x] Support Vector Classifier
 - [x] Decision Tree Classifier
-- [ ] Random Forest Classifier
+- [x] Random Forest Classifier

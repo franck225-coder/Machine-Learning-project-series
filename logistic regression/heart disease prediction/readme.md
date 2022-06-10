@@ -31,12 +31,16 @@ The provided dataset contains the following features:
 - **thal**: A blood disorder called thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect)
 - **target**: Heart disease (0 = no, 1 = yes)
 
-### *__1.Data visualization__*
+### *__1. Data visualization__*
 Here we perform a series of visualization to analyze the data
 distribution. 
 - __Histogram__
 
 ![](./images/1.png)
+
+- __Density plot__
+
+![](./images/2.png)
 
 The methods implemented are listed as follows:
 ```

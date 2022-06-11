@@ -50,6 +50,13 @@ distribution.
 
 ![](./images/4.png)
 
+---
+### *__Implemented model performance__*
+| Models | Accuracy |
+| ------ | :--------:|
+|Linear Regression | __0.84__|
+ 
+
 The methods implemented are listed as follows:
 ```
 1. Linear Regression

@@ -46,6 +46,10 @@ distribution.
 
 ![](./images/3.png)
 
+- __Target class distribution__
+
+![](./images/4.png)
+
 The methods implemented are listed as follows:
 ```
 1. Linear Regression

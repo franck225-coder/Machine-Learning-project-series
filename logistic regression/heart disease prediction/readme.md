@@ -54,7 +54,9 @@ distribution.
 ### *__Implemented model performance__*
 | Models | Accuracy |
 | ------ | :--------:|
-|Linear Regression | __0.84__|
+|**Linear Regression** | __0.84__|
+| **K Neighbors Classifier** | __89.0%__ with 8 neighbors |
+
  
 
 The methods implemented are listed as follows:

@@ -55,7 +55,8 @@ distribution.
 | Models | Accuracy |
 | ------ | :--------:|
 |**Linear Regression** | __0.84__|
-| **K Neighbors Classifier** | __89.0%__ with 8 neighbors |
+| **KNN Classifier** | __89.0%__ with __8__ neighbors |
+|**SVM Classifier** |__91.74%__ with __rbf__ kernels |
 
  
 

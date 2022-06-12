@@ -57,7 +57,7 @@ distribution.
 |**Linear Regression** | __0.84__|
 | **KNN Classifier** | __89.0%__ with __8__ neighbors |
 |**SVM Classifier** |__91.74%__ with __rbf__ kernels |
-
+| **Decision Tree Classifier**| __100%__ with __[4, 5, 6, 8, 11]__ maximum features|
  
 
 The methods implemented are listed as follows:

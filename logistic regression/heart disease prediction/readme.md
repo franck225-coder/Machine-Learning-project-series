@@ -65,7 +65,3 @@ The methods implemented are listed as follows:
 1. Linear Regression
 2. K Nearest Neighbors
 ```
-# TODO - List
-- [x] Support Vector Classifier
-- [x] Decision Tree Classifier
-- [x] Random Forest Classifier

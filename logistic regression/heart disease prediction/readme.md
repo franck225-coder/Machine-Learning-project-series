@@ -59,9 +59,7 @@ distribution.
 |**SVM Classifier** |__91.74%__ with __rbf__ kernels |
 | **Decision Tree Classifier**| __100%__ with __[4, 5, 6, 8, 11]__ maximum features|
  
-
-The methods implemented are listed as follows:
-```
-1. Linear Regression
-2. K Nearest Neighbors
-```
+---
+### *__Conclusion__*
+In this notebook, an implementation of various ML algorithms to perform a classification task, that is to predict if a patient with a given 
+feature is sick or not.

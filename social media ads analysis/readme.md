@@ -3,3 +3,12 @@ In machine learning, classification refers to the process of training a model to
 
 ---
 ## __Dataset__
+
+|    |   Age |   EstimatedSalary |   Purchased |
+|---:|------:|------------------:|------------:|
+|  0 |    19 |             19000 |           0 |
+|  1 |    35 |             20000 |           0 |
+|  2 |    26 |             43000 |           0 |
+|  3 |    27 |             57000 |           0 |
+|  4 |    19 |             76000 |           0 |
+

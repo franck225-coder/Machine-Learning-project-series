@@ -16,5 +16,11 @@ if the user purchases the ads or not.
 |  4 |    19 |             76000 |           0 |
 
 ## __2. Data exploratory__
-- Density distribution 
+
+- __Density distribution __
 ![](./analysis_graph/1.png)
+
+- __Confusion Matrix__
+
+![](./analysis_graph/2.png)
+

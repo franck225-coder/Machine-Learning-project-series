@@ -15,3 +15,4 @@ if the user purchases the ads or not.
 |  3 |    27 |             57000 |           0 |
 |  4 |    19 |             76000 |           0 |
 
+## 

@@ -24,3 +24,5 @@ if the user purchases the ads or not.
 
 ![](./analysis_graph/2.png)
 
+- __Product purchased distribution per age count__
+![](./analysis_graph/3.png)

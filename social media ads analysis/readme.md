@@ -8,7 +8,7 @@ the __EstimatedSalary__ of the user and __Purchased__ which indicates
 if the user purchases the ads or not.
 
 |    |   Age |   EstimatedSalary |   Purchased |
-|---:|------:|------------------:|------------:|
+|---:|:------:|:------------------:|:------------:|
 |  0 |    19 |             19000 |           0 |
 |  1 |    35 |             20000 |           0 |
 |  2 |    26 |             43000 |           0 |
@@ -16,7 +16,6 @@ if the user purchases the ads or not.
 |  4 |    19 |             76000 |           0 |
 
 ## __2. Data exploratory__
-
 
 - __Density distribution __
 
@@ -37,3 +36,17 @@ This graph shows the product purchased by users based on their age count.
 - __Product purchased distribution per salary count__
 This graph shows the product purchased by users based on their salary count.
 ![](./analysis_graph/4.png)
+
+---
+## __3. Model Training and evaluation__
+
+Here, we present the models implemented as well as their performance:
+
+|    | **Classification models**        |   **Model Performance** |
+|---:|:-----------------------------|:--------------------:|
+|  0 | __decision_tree__                |               __0.925__ |
+|  1 | __knn_classifier__               |               __0.8__   |
+|  2 | __logistic_regression__          |               __0.65__  |
+|  3 | __svm_classifier__               |               __0.775__ |
+|  4 | __bernouilli_classifier__        |               __0.65__  |
+|  5 | __passive_agressive_classifier__ |               __0.65__ |

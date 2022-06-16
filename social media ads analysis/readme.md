@@ -17,12 +17,23 @@ if the user purchases the ads or not.
 
 ## __2. Data exploratory__
 
+
 - __Density distribution __
+
+This graph shows the data distribution, by observing it, we can see how
+distributed is the data. 
 ![](./analysis_graph/1.png)
 
 - __Confusion Matrix__
 
+The correlation matrix demonstrates how related are the data.
 ![](./analysis_graph/2.png)
 
 - __Product purchased distribution per age count__
+
+This graph shows the product purchased by users based on their age count.
 ![](./analysis_graph/3.png)
+
+- __Product purchased distribution per salary count__
+This graph shows the product purchased by users based on their salary count.
+![](./analysis_graph/4.png)

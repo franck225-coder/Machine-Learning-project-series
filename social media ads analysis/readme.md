@@ -50,3 +50,8 @@ Here, we present the models implemented as well as their performance:
 |  3 | __svm_classifier__               |               __0.775__ |
 |  4 | __bernouilli_classifier__        |               __0.65__  |
 |  5 | __passive_agressive_classifier__ |               __0.65__ |
+
+## __Conclusion__
+In this tutorial we went over an implementation of multiple 
+classification algorithms as well as a detail data processing
+set.

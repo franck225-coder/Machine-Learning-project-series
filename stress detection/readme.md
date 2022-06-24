@@ -3,6 +3,7 @@
 
 
 #### **__TODO__**
+- [x] Data loading
 - [x] Data exploratory
 - [ ] Data visualization
 - [ ] Data processing

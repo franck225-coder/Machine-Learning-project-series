@@ -5,7 +5,7 @@
 #### **__TODO__**
 - [x] Data loading
 - [x] Data exploratory
-- [ ] Data visualization
+- [x] Data visualization
 - [ ] Data processing
 - [ ] Model creation
 - [ ] Testing

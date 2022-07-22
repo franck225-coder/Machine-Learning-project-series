@@ -6,7 +6,7 @@
 - [x] Data loading
 - [x] Data exploratory
 - [x] Data visualization
-- [ ] Data processing
+- [x] Data processing
 - [ ] Model creation
 - [ ] Testing
 - [ ] Complete readme

@@ -7,6 +7,6 @@
 - [x] Data exploratory
 - [x] Data visualization
 - [x] Data processing
-- [ ] Model creation
+- [x] Model creation
 - [ ] Testing
 - [ ] Complete readme

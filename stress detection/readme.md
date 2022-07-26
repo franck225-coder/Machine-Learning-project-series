@@ -8,5 +8,5 @@
 - [x] Data visualization
 - [x] Data processing
 - [x] Model creation
-- [ ] Testing
+- [x] Testing
 - [ ] Complete readme

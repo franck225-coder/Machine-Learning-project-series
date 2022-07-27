@@ -17,7 +17,11 @@ This graph shows the data distribution, by observing it, we can see how
 distributed is the data among certain features.
 ![](./result/2.png) 
 
+- __Stress distribution representation__
 
+This __Pie__ shows the distribution of the stress representation
+based on the title.
+![](./result/1.png)
 
 
 

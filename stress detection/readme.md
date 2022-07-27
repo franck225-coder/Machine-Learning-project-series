@@ -37,8 +37,16 @@ image.
 ![](./result/4.png)
 
 
+## __3. Model Training and evaluation__
 
+Here, we present the models implemented as well as their performance:
 
+|    | Models                |   Performance  |
+|---:|:----------------------|---------------:|
+|  0 | Bernouilli Classifier |       0.732124 |
+|  1 | decision_tree         |       0.58698  |
+|  2 | kneighbors            |       0.559232 |
+|  3 | logistic_regression   |       0.723586 |
 
 
 

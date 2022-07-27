@@ -9,6 +9,17 @@ The dataset we used contains data posted on subreddits related to mental health.
 | assistance  | 8lbrx9    | (0, 5)           | Hey there r/assistance, Not sure if this is the right place to post this.. but here goes =) I'm currently a student intern at Sandia National Labs and working on a survey to help improve our marketing outreach efforts at the many schools we recruit at around the country. We're looking for current undergrad/grad STEM students so if you're a STEM student or know STEM students, I would greatly appreciate if you can help take or pass along this short survey. As a thank you, everyone who helps take the survey will be entered in to a drawing for chance to win one of three $50 Amazon gcs. |  2606 |       0 |          1   |         1527009817 |              4 |      9.42974 |           109 |               79.08 |            76.85 |                56.75 |           98.18 |          27.25 |             21.1  |          87.16 |               48.62 |              11.93 |             7.34 |         1.83 |          2.75 |           2.75 |             0    |               0 |             4.59 |               8.26 |           13.76 |               6.42 |              3.67 |            8.26 |              0.92 |           15.6  |           2.75 |               0.92 |                0.92 |              2.75 |             0.92 |              5.5  |              5.5  |               0   |           0    |             0    |           0    |             11.01 |                 0 |                 0 |                 0 |            0    |              11.93 |               1.83 |             0    |               3.67 |              5.5  |               1.83 |              6.42 |               0.92 |           0.92 |            0    |            0    |           0    |            0    |              0    |                 0 |                 0 |             15.6  |                    5.5 |               3.67 |             7.34 |              2.75 |            0    |                 0.92 |                   13.76 |                   0.92 |              15.6  |              2.75 |            10.09 |            1.83 |           11.01 |                  0 |               0 |             0.92 |             0    |                0 |                1.83 |             0    |                0.92 |                 0 |                 0 |                 0 |              14.68 |              4.59 |             2.75 |             0    |             0    |                0 |                 0 |               0 |             0    |               2.75 |               0.92 |              3.67 |                     3      |                   2.8889 |                     3 |                      1.125 |                    1     |                     1 |                  1.69586 |               1.62045 |                    1.88919 |                  0.65 |                     2 |           8.82832 |   0.292857  |
 
 
+## __2. Data exploratory__
+
+- __Density distribution__
+
+This graph shows the data distribution, by observing it, we can see how
+distributed is the data among certain features.
+![](./result/2.png) 
+
+
+
+
 
 
 #### **__TODO__**

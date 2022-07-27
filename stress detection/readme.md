@@ -23,11 +23,18 @@ This __Pie__ shows the distribution of the stress representation
 based on the title.
 ![](./result/1.png)
 
-_ __Class distribution__
+- __Class distribution__
 
 We also analyze the class _(0:no stress & 1: stress)_ distribution,
 in order to avoid data imbalance problem.
+
 ![](./result/3.png)
+
+- __WordCloud__
+
+We observe, the most common words used, as presented in the following
+image.
+![](./result/4.png)
 
 
 

@@ -54,4 +54,4 @@ Here, we present the models implemented as well as their performance:
 ## __Conclusion__
 In this tutorial we went over an implementation of multiple 
 classification algorithms as well as a detail data processing
-set.
+step.

@@ -48,5 +48,9 @@ Here, we present the models implemented as well as their performance:
 |  2 | kneighbors            |       0.559232 |
 |  3 | logistic_regression   |       0.723586 |
 
-## __4. Model Testing__
+## __Conclusion__
+In this tutorial we went over an implementation of multiple 
+models algorithms as well as a detail data processing
+step for analyzing stress based on some given features.
+
 

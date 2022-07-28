@@ -48,13 +48,5 @@ Here, we present the models implemented as well as their performance:
 |  2 | kneighbors            |       0.559232 |
 |  3 | logistic_regression   |       0.723586 |
 
+## __4. Model Testing__
 
-
-#### **__TODO__**
-- [x] Data loading
-- [x] Data exploratory
-- [x] Data visualization
-- [x] Data processing
-- [x] Model creation
-- [x] Testing
-- [ ] Complete readme

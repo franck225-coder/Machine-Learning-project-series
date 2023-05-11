@@ -1,7 +1,7 @@
 # __**Machine Learning (ML) project series**__
 
 					    # MACHINE LEARNING (ML) SERIES # 
-
+In this series, we implement various ML models on various data. A complete workflow is shown in the notebook.
 ## Supervised learning => Classification & Regression
 	- Algorithms
 		- Decision tree
@@ -42,6 +42,7 @@
 	- Decision Tree
 	- Naïve Bayes
 	- Random Forest
+	- AdaBoost
 
 ## Logistic reression
 	- Binary (0 or 1; True or False; Yes or No; Win ir Lose etc.)
